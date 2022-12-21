@@ -1,0 +1,7 @@
+Shampoo	Dove	Cosmetics	2	3	Metro Ayala
+Bread	Gardenia	Pantry	1	1	Metro Ayala
+Water Bottle	Quench	Food (Non-perishable)	6	3	Quench Lahug
+Potato Chips	Pringles	Food (Perishable)	3	1	Landers Cebu
+Corned Beef	Argentina	Pantry	4	7	Metro Ayala
+Sardines	Mega	Pantry	5	4	Metro Colon101
+AAA	AAA	Food (Perishable)	1	3	AAAA
